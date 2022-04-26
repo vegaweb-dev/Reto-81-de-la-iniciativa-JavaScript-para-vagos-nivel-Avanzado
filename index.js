@@ -62,7 +62,7 @@ console.log(esParOImpar(numero));
 let numerito = 488;
 const parOImpar = (n) => (eval([...(n + "")].join`+`) % 2 ? "Inpar" : "Par");
 
-console.log(parOImpar(numerito));  🔥🔥🔥🔥🔥🔥 💪💪💪💪                                //Prueba
+console.log(parOImpar(numerito));  🔥🔥🔥🔥 💪💪💪💪                                //Prueba
 
 
 
